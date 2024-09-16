@@ -1,0 +1,16 @@
+P:\VSrepos\VS2022\Dvymerniy-Massiv\DvymerniyMassiv\DvymerniyMassiv\bin\Debug\net8.0-windows\DvymerniyMassiv.exe
+P:\VSrepos\VS2022\Dvymerniy-Massiv\DvymerniyMassiv\DvymerniyMassiv\bin\Debug\net8.0-windows\DvymerniyMassiv.deps.json
+P:\VSrepos\VS2022\Dvymerniy-Massiv\DvymerniyMassiv\DvymerniyMassiv\bin\Debug\net8.0-windows\DvymerniyMassiv.runtimeconfig.json
+P:\VSrepos\VS2022\Dvymerniy-Massiv\DvymerniyMassiv\DvymerniyMassiv\bin\Debug\net8.0-windows\DvymerniyMassiv.dll
+P:\VSrepos\VS2022\Dvymerniy-Massiv\DvymerniyMassiv\DvymerniyMassiv\bin\Debug\net8.0-windows\DvymerniyMassiv.pdb
+P:\VSrepos\VS2022\Dvymerniy-Massiv\DvymerniyMassiv\DvymerniyMassiv\obj\Debug\net8.0-windows\DvymerniyMassiv.Form1.resources
+P:\VSrepos\VS2022\Dvymerniy-Massiv\DvymerniyMassiv\DvymerniyMassiv\obj\Debug\net8.0-windows\DvymerniyMassiv.csproj.GenerateResource.cache
+P:\VSrepos\VS2022\Dvymerniy-Massiv\DvymerniyMassiv\DvymerniyMassiv\obj\Debug\net8.0-windows\DvymerniyMassiv.GeneratedMSBuildEditorConfig.editorconfig
+P:\VSrepos\VS2022\Dvymerniy-Massiv\DvymerniyMassiv\DvymerniyMassiv\obj\Debug\net8.0-windows\DvymerniyMassiv.AssemblyInfoInputs.cache
+P:\VSrepos\VS2022\Dvymerniy-Massiv\DvymerniyMassiv\DvymerniyMassiv\obj\Debug\net8.0-windows\DvymerniyMassiv.AssemblyInfo.cs
+P:\VSrepos\VS2022\Dvymerniy-Massiv\DvymerniyMassiv\DvymerniyMassiv\obj\Debug\net8.0-windows\DvymerniyMassiv.csproj.CoreCompileInputs.cache
+P:\VSrepos\VS2022\Dvymerniy-Massiv\DvymerniyMassiv\DvymerniyMassiv\obj\Debug\net8.0-windows\DvymerniyMassiv.dll
+P:\VSrepos\VS2022\Dvymerniy-Massiv\DvymerniyMassiv\DvymerniyMassiv\obj\Debug\net8.0-windows\refint\DvymerniyMassiv.dll
+P:\VSrepos\VS2022\Dvymerniy-Massiv\DvymerniyMassiv\DvymerniyMassiv\obj\Debug\net8.0-windows\DvymerniyMassiv.pdb
+P:\VSrepos\VS2022\Dvymerniy-Massiv\DvymerniyMassiv\DvymerniyMassiv\obj\Debug\net8.0-windows\DvymerniyMassiv.genruntimeconfig.cache
+P:\VSrepos\VS2022\Dvymerniy-Massiv\DvymerniyMassiv\DvymerniyMassiv\obj\Debug\net8.0-windows\ref\DvymerniyMassiv.dll
