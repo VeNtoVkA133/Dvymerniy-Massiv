@@ -72,6 +72,8 @@ namespace DvymerniyMassiv
                 }else if(k == 1)
                 {
                     int num = 0;
+                    int differenceI;
+                    int differenceJ;
                     for (int i = 0; i < n; i++)
                     {
                         for (int j = 0; j < n; j++)
@@ -82,10 +84,10 @@ namespace DvymerniyMassiv
                                 {
                                     break;
                                 }
-                                else if (j == line)
+                                /* else if (j == line)
                                 { 
                                     j++;
-                                }
+                                } */ // не нужно
                             }
                             else
                             {
@@ -96,7 +98,7 @@ namespace DvymerniyMassiv
                                     {
                                         array2[i - 1, j - 1] = num;
                                     }
-                                    if (i == n - 1)
+                                    else if(i == n - 1)
                                     {
                                         array2[i - 1, j] = num;
                                     }else if (j == n - 1)
@@ -104,6 +106,39 @@ namespace DvymerniyMassiv
                                         array2[i, j - 1] = num;
                                     }
                                 }
+                                /* else if (i >= column || j >= line)
+                                {
+                                    if (i == column && j == line)
+                                    {
+                                        array2[column, line] = num;
+                                    }
+                                    else if (i == column)
+                                    {
+                                        array2[column, j] = num;
+                                    }
+                                    else if (j == line)
+                                    {
+                                        array2[i, line] = num;
+                                    }
+                                    else if(i > column && j > line)
+                                    {
+                                        differenceI = column - i;
+                                        differenceJ = line - j;
+                                        array2[column + differenceI, line + differenceJ] = num;
+                                    }
+                                    else if (i > column)
+                                    {
+                                        differenceI = column - i;
+                                        array2[column + differenceI, j] = num;
+                                    }
+                                    else if (j > line)
+                                    {
+                                        differenceJ = line - j;
+                                        array2[i, line + differenceJ] = num;
+                                    }
+                                }*/ //попытка исправить ошибку с нул€ми (неудачно) 
+                                // суть ошибки: при i и j == n еЄ нет, так как удал€етс€ проверкой выше.
+                                //ј при i или j < n не удал€етс€ а замен€етс€ на 0 так как в данное окно ничего не пишетс€ и оно проскакивает на строках 92 и 142
                                 else
                                 {
                                     array2[i, j] = num;

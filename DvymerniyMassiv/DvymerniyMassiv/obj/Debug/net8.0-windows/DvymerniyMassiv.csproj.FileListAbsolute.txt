@@ -14,3 +14,4 @@ P:\VSrepos\VS2022\Dvymerniy-Massiv\DvymerniyMassiv\DvymerniyMassiv\obj\Debug\net
 P:\VSrepos\VS2022\Dvymerniy-Massiv\DvymerniyMassiv\DvymerniyMassiv\obj\Debug\net8.0-windows\DvymerniyMassiv.pdb
 P:\VSrepos\VS2022\Dvymerniy-Massiv\DvymerniyMassiv\DvymerniyMassiv\obj\Debug\net8.0-windows\DvymerniyMassiv.genruntimeconfig.cache
 P:\VSrepos\VS2022\Dvymerniy-Massiv\DvymerniyMassiv\DvymerniyMassiv\obj\Debug\net8.0-windows\ref\DvymerniyMassiv.dll
+P:\VSrepos\VS2022\Dvymerniy-Massiv\DvymerniyMassiv\DvymerniyMassiv\obj\Debug\net8.0-windows\DvymerniyMassiv.sourcelink.json
